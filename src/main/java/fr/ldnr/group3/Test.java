@@ -13,5 +13,6 @@ public class Test {
 		System.out.println("Ceci est un test de PJ");
 		System.out.println("test de Sarah");
 		System.out.println("test de Hello world babdabam");
+		System.out.println("test2 de Sarah");
 	}
 }
